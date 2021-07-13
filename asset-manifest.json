@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe-React/static/css/main.1f173fbb.chunk.css",
+    "main.js": "/tic-tac-toe-React/static/js/main.c79e8127.chunk.js",
+    "main.js.map": "/tic-tac-toe-React/static/js/main.c79e8127.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe-React/static/js/runtime-main.45b1e080.js",
+    "runtime-main.js.map": "/tic-tac-toe-React/static/js/runtime-main.45b1e080.js.map",
+    "static/js/2.ccd9fd30.chunk.js": "/tic-tac-toe-React/static/js/2.ccd9fd30.chunk.js",
+    "static/js/2.ccd9fd30.chunk.js.map": "/tic-tac-toe-React/static/js/2.ccd9fd30.chunk.js.map",
+    "static/js/3.9cd13a2b.chunk.js": "/tic-tac-toe-React/static/js/3.9cd13a2b.chunk.js",
+    "static/js/3.9cd13a2b.chunk.js.map": "/tic-tac-toe-React/static/js/3.9cd13a2b.chunk.js.map",
+    "static/js/4.ab626f99.chunk.js": "/tic-tac-toe-React/static/js/4.ab626f99.chunk.js",
+    "static/js/4.ab626f99.chunk.js.map": "/tic-tac-toe-React/static/js/4.ab626f99.chunk.js.map",
+    "index.html": "/tic-tac-toe-React/index.html",
+    "static/css/main.1f173fbb.chunk.css.map": "/tic-tac-toe-React/static/css/main.1f173fbb.chunk.css.map",
+    "static/js/2.ccd9fd30.chunk.js.LICENSE.txt": "/tic-tac-toe-React/static/js/2.ccd9fd30.chunk.js.LICENSE.txt",
+    "static/js/3.9cd13a2b.chunk.js.LICENSE.txt": "/tic-tac-toe-React/static/js/3.9cd13a2b.chunk.js.LICENSE.txt",
+    "static/media/eat_success.e0a5f755.wav": "/tic-tac-toe-React/static/media/eat_success.e0a5f755.wav",
+    "static/media/error-producer.2f323e19.mp3": "/tic-tac-toe-React/static/media/error-producer.2f323e19.mp3",
+    "static/media/logo.6ce24c58.svg": "/tic-tac-toe-React/static/media/logo.6ce24c58.svg",
+    "static/media/mixkit-video-game-treasure-2066.1936d448.wav": "/tic-tac-toe-React/static/media/mixkit-video-game-treasure-2066.1936d448.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45b1e080.js",
+    "static/js/2.ccd9fd30.chunk.js",
+    "static/css/main.1f173fbb.chunk.css",
+    "static/js/main.c79e8127.chunk.js"
+  ]
+}
